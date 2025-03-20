@@ -35,7 +35,7 @@ This project builds an **Agentic AI** system for knowledge management. It autono
 git clone https://github.com/alkairis/self-learning-ai-agents.git
 cd self-learning-ai-agents
 python -m venv venv
-source venv/bin/activate
+source venv/scripts/activate
 pip install poetry
 poetry install
 ```
